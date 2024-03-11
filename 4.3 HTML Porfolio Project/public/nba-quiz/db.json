@@ -1,0 +1,185 @@
+{
+  "trivia": [
+    {
+      "id": 1,
+      "question": "Which NBA player is the current all time leader in points scored?",
+      "answer": "Lebron James",
+      "fact": ""
+    },
+    {
+      "id": 2,
+      "question": "Who has the most dunks in NBA history?",
+      "answer": "Dwight Howard",
+      "fact": "Since the statistic was officially tracked in 1996, the player with the most NBA Regular season Dunks is Dwight Howard. At the end of the 2023 season he had made 2,950 dunks, leading second placed and retired Shaquille O’neal (2,626) by 324. Dwight Howard (3,252) leads Shaq (3,200) by just 52 dunks when Playoffs and Regular season are combined."
+    },
+    {
+      "id": 3,
+      "question": "Who is the NBA leader in assists?",
+      "answer": "John Stockton",
+      "fact": "Since the statistic was officially tracked in 1996, the player with the most NBA Regular season Dunks is Dwight Howard. At the end of the 2023 season he had made 2,950 dunks, leading second placed and retired Shaquille O’neal (2,626) by 324. Dwight Howard (3,252) leads Shaq (3,200) by just 52 dunks when Playoffs and Regular season are combined."
+    },
+    {
+      "id": 4,
+      "question": "Which NBA player holds the record for the most steals?",
+      "answer": "John Stockton",
+      "fact": "Since the statistic was officially tracked in 1996, the player with the most NBA Regular season Dunks is Dwight Howard. At the end of the 2023 season he had made 2,950 dunks, leading second placed and retired Shaquille O’neal (2,626) by 324. Dwight Howard (3,252) leads Shaq (3,200) by just 52 dunks when Playoffs and Regular season are combined."
+    },
+    {
+      "id": 5,
+      "question": "Which NBA player is the all time leader in blocks?",
+      "answer": "Hakeem Olajuwon",
+      "fact": "Kareem Abdul-Jabbar holds the record for the most NBA MVP awards, having won the award 6 times in his career. He won his first MVP award in the 1970-71 season and his last one in the 1979-80 season. No other player in NBA history has won as many MVP awards as Abdul-Jabbar."
+    },
+    {
+      "id": 6,
+      "question": "Which NBA player is the current leader in 3 pointers made?",
+      "answer": "Stephen Curry",
+      "fact": "Kareem Abdul-Jabbar holds the record for the most NBA MVP awards, having won the award 6 times in his career. He won his first MVP award in the 1970-71 season and his last one in the 1979-80 season. No other player in NBA history has won as many MVP awards as Abdul-Jabbar."
+    },
+    {
+      "id": 7,
+      "question": "Who is the all time leader in free throws made for their career?",
+      "answer": "Karl Malone",
+      "fact": "Kareem Abdul-Jabbar holds the record for the most NBA MVP awards, having won the award 6 times in his career. He won his first MVP award in the 1970-71 season and his last one in the 1979-80 season. No other player in NBA history has won as many MVP awards as Abdul-Jabbar."
+    },
+    {
+      "id": 8,
+      "question": "Which NBA player has played in the most NBA games?",
+      "answer": "Robert Parish",
+      "fact": "Kareem Abdul-Jabbar holds the record for the most NBA MVP awards, having won the award 6 times in his career. He won his first MVP award in the 1970-71 season and his last one in the 1979-80 season. No other player in NBA history has won as many MVP awards as Abdul-Jabbar."
+    },
+    {
+      "id": 9,
+      "question": "Which NBA player had the most 40 point games for their career?",
+      "answer": "Michael Jordan",
+      "fact": "Jordan is the greatest scorer, mid-range shooter, and overall player in NBA history. With his 173 40-point games, Jordan also added 31 50-point games and four 60-point games. His best single-game performance would come in a 1990 contest against the Cleveland Cavaliers. On this night, Jordan scored 69 points in a 117-113 overtime win. He shot 62.2% from the field, going 23-37 overall and 21-23 from the foul line."
+    }
+  ],
+  "players": [
+    { "id": 1, "name": "Michael Jordan", "teams": [] },
+    { "id": 2, "name": "LeBron James", "teams": [] },
+    { "id": 3, "name": "Kareem Abdul-Jabbar", "teams": [] },
+    { "id": 4, "name": "Magic Johnson", "teams": [] },
+    { "id": 5, "name": "Bill Russell", "teams": [] },
+    { "id": 6, "name": "Wilt Chamberlain", "teams": [] },
+    { "id": 7, "name": "Larry Bird", "teams": [] },
+    { "id": 8, "name": "Kobe Bryant", "teams": [] },
+    { "id": 9, "name": "Shaquille O'Neal", "teams": [] },
+    { "id": 10, "name": "Tim Duncan", "teams": [] },
+    { "id": 11, "name": "Hakeem Olajuwon ", "teams": [] },
+    { "id": 12, "name": "Kevin Durant", "teams": [] },
+    { "id": 13, "name": "Stephen Curry", "teams": [] },
+    { "id": 14, "name": "Oscar Robertson", "teams": [] },
+    { "id": 15, "name": "Karl Malone", "teams": [] },
+    { "id": 16, "name": "Moses Malone", "teams": [] },
+    { "id": 17, "name": "Kevin Garnett", "teams": [] },
+    { "id": 18, "name": "Jerry West", "teams": [] },
+    { "id": 19, "name": "Dirk Nowitzki ", "teams": [] },
+    { "id": 20, "name": "Julius Erving", "teams": [] },
+    { "id": 21, "name": "Elgin Baylor", "teams": [] },
+    { "id": 22, "name": "Giannis Antetokounmpo ", "teams": [] },
+    { "id": 23, "name": "Dwyane Wade", "teams": [] },
+    { "id": 24, "name": "David Robinson", "teams": [] },
+    { "id": 25, "name": "Charles Barkley", "teams": [] },
+    { "id": 26, "name": "Isiah Thomas", "teams": [] },
+    { "id": 27, "name": "Scottie Pippen", "teams": [] },
+    { "id": 28, "name": "Chris Paul", "teams": [] },
+    { "id": 29, "name": "John Havlicek", "teams": [] },
+    { "id": 30, "name": "Allen Iverson", "teams": [] },
+    { "id": 31, "name": "Bob Pettit", "teams": [] },
+    { "id": 32, "name": "John Stockton", "teams": [] },
+    { "id": 33, "name": "Kawhi Leonard", "teams": [] },
+    { "id": 34, "name": "Steve Nash ", "teams": [] },
+    { "id": 35, "name": "Patrick Ewing", "teams": [] },
+    { "id": 36, "name": "Rick Barry", "teams": [] },
+    { "id": 37, "name": "Bob Cousy", "teams": [] },
+    { "id": 38, "name": "Jason Kidd", "teams": [] },
+    { "id": 39, "name": "James Harden", "teams": [] },
+    { "id": 40, "name": "Elvin Hayes", "teams": [] },
+    { "id": 41, "name": "Nikola Jokic ", "teams": [] },
+    { "id": 42, "name": "Gary Payton", "teams": [] },
+    { "id": 43, "name": "Dominique Wilkins", "teams": [] },
+    { "id": 44, "name": "George Gervin", "teams": [] },
+    { "id": 45, "name": "Clyde Drexler", "teams": [] },
+    { "id": 46, "name": "George Mikan", "teams": [] },
+    { "id": 47, "name": "Anthony Davis", "teams": [] },
+    { "id": 48, "name": "Russell Westbrook", "teams": [] },
+    { "id": 49, "name": "James Worthy", "teams": [] },
+    { "id": 50, "name": "Carmelo Anthony", "teams": [] },
+    { "id": 51, "name": "Paul Pierce", "teams": [] },
+    { "id": 52, "name": "Bob McAdoo", "teams": [] },
+    { "id": 53, "name": "Damian Lillard", "teams": [] },
+    { "id": 54, "name": "Reggie Miller", "teams": [] },
+    { "id": 55, "name": "Wes Unseld", "teams": [] },
+    { "id": 56, "name": "Kevin McHale", "teams": [] },
+    { "id": 57, "name": "Ray Allen", "teams": [] },
+    { "id": 58, "name": "Pau Gasol ", "teams": [] },
+    { "id": 59, "name": "Walt Frazier", "teams": [] },
+    { "id": 60, "name": "Robert Parish", "teams": [] },
+    { "id": 61, "name": "Willis Reed", "teams": [] },
+    { "id": 62, "name": "Dwight Howard", "teams": [] },
+    { "id": 63, "name": "Dolph Schayes", "teams": [] },
+    { "id": 64, "name": "Chris Bosh", "teams": [] },
+    { "id": 65, "name": "Dennis Rodman", "teams": [] },
+    { "id": 66, "name": "Nate Archibald", "teams": [] },
+    { "id": 67, "name": "Pete Maravich", "teams": [] },
+    { "id": 68, "name": "Dave Cowens", "teams": [] },
+    { "id": 69, "name": "Tony Parker ", "teams": [] },
+    { "id": 70, "name": "Vince Carter", "teams": [] },
+    { "id": 71, "name": "Alex English", "teams": [] },
+    { "id": 72, "name": "Paul Arizin", "teams": [] },
+    { "id": 73, "name": "Earl Monroe", "teams": [] },
+    { "id": 74, "name": "Bernard King", "teams": [] },
+    { "id": 75, "name": "Tracy McGrady", "teams": [] },
+    { "id": 76, "name": "Kyrie Irving", "teams": [] },
+    { "id": 77, "name": "Hal Greer", "teams": [] }
+  ],
+  "teams": {
+    "eastern": {
+      "atlantic": [
+        { "id": 1, "name": "Boston Celtics" },
+        { "id": 2, "name": "Brooklyn Nets" },
+        { "id": 3, "name": "New York Knicks" },
+        { "id": 4, "name": "Philadelphia 76ers" },
+        { "id": 5, "name": "Toronto Raptors" }
+      ],
+      "central": [
+        { "id": 6, "name": "Chicago Bulls" },
+        { "id": 7, "name": "Cleveland Cavaliers" },
+        { "id": 8, "name": "Detroit Pistons" },
+        { "id": 9, "name": "Indiana Pacers" },
+        { "id": 10, "name": "Milwaukee Bucks" }
+      ],
+      "southeast": [
+        { "id": 11, "name": "Atlanta Hawks" },
+        { "id": 12, "name": "Charlotte Hornets" },
+        { "id": 13, "name": "Miami Heat" },
+        { "id": 14, "name": "Orlando Magic" },
+        { "id": 15, "name": "Washington Wizards" }
+      ]
+    },
+    "western": {
+      "northwest": [
+        { "id": 16, "name": "Denver Nuggets" },
+        { "id": 17, "name": "Minnesota Timberwolves" },
+        { "id": 18, "name": "Oklahoma City Thunder" },
+        { "id": 19, "name": "Portland Trail Blazers" },
+        { "id": 20, "name": "Utah Jazz" }
+      ],
+      "pacific": [
+        { "id": 21, "name": "Golden State Warriors" },
+        { "id": 22, "name": "LA Clippers" },
+        { "id": 23, "name": "Los Angeles Lakers" },
+        { "id": 24, "name": "Phoenix Suns" },
+        { "id": 25, "name": "Sacramento Kings" }
+      ],
+      "southwest": [
+        { "id": 26, "name": "Dallas Mavericks" },
+        { "id": 27, "name": "Houston Rockets" },
+        { "id": 28, "name": "Memphis Grizzlies" },
+        { "id": 29, "name": "New Orleans Pelicans" },
+        { "id": 30, "name": "San Antonio Spurs" }
+      ]
+    }
+  }
+}

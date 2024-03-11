@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Abyssinica+SIL&display=swap");
+
+:root {
+  font-family: "Abyssinica SIL", "Courier New", Courier, monospace;
+}
+
+#title {
+  text-align: center;
+  padding: 1.5rem;
+  font-size: 3rem;
+}
+
+img {
+  width: 175px;
+  height: 175px;
+}
+
+.dice-display {
+  display: flex;
+  gap: 10px;
+}
+
+.dice-container {
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.danger {
+  color: red;
+}
+
+#roll-point,
+#current-roll {
+  align-self: center;
+  margin: auto;
+  font-size: 2rem;
+}
+
+.outcome-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  width: 100px;
+  padding: 0.6rem 0;
+  font-size: 0.9rem;
+  font-weight: bold;
+  border-radius: 5px;
+  border: 0;
+  font-family: "Abyssinica SIL", "Courier New", Courier, monospace;
+}
+
+button:hover {
+  transform: scale(1.03);
+  -webkit-box-shadow: 5px 5px 9px 2px rgba(0, 0, 0, 0.26);
+  box-shadow: 2px 3px 9px 2px rgba(0, 0, 0, 0.26);
+}
+
+.buttons-stats {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.buttons,
+.stats {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+#bet-btn {
+  background: red;
+  color: #fff;
+}
+
+#bet-btn:hover {
+  background: rgb(218, 0, 0);
+  color: #fff;
+}
+
+#bet-btn:disabled {
+  background: firebrick;
+}
+
+.money {
+  font-size: 2rem;
+}
+
+form {
+  display: flex;
+  align-items: center;
+}
+
+input[type="number"] {
+  /* padding: 0.6rem 1rem; */
+  width: 100px;
+  margin-inline-end: 0.5rem;
+  font-size: 1.5rem;
+}
+
+/* .stats {
+  display: flex;
+} */

@@ -1,0 +1,20 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.text-input label,
+.text-input textarea {
+  display: block;
+}
+
+.container {
+  padding: 0.7rem;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,720 @@
+{
+  "trivia": [
+    {
+      "id": 1,
+      "question": "Which NBA player is the current all time leader in points scored?",
+      "answer": "Lebron James",
+      "fact": ""
+    },
+    {
+      "id": 2,
+      "question": "Who has the most dunks in NBA history?",
+      "answer": "Dwight Howard",
+      "fact": "Since the statistic was officially tracked in 1996, the player with the most NBA Regular season Dunks is Dwight Howard. At the end of the 2023 season he had made 2,950 dunks, leading second placed and retired Shaquille O’neal (2,626) by 324. Dwight Howard (3,252) leads Shaq (3,200) by just 52 dunks when Playoffs and Regular season are combined."
+    },
+    {
+      "id": 3,
+      "question": "Who is the NBA leader in assists?",
+      "answer": "John Stockton",
+      "fact": "Since the statistic was officially tracked in 1996, the player with the most NBA Regular season Dunks is Dwight Howard. At the end of the 2023 season he had made 2,950 dunks, leading second placed and retired Shaquille O’neal (2,626) by 324. Dwight Howard (3,252) leads Shaq (3,200) by just 52 dunks when Playoffs and Regular season are combined."
+    },
+    {
+      "id": 4,
+      "question": "Which NBA player holds the record for the most steals?",
+      "answer": "John Stockton",
+      "fact": "Since the statistic was officially tracked in 1996, the player with the most NBA Regular season Dunks is Dwight Howard. At the end of the 2023 season he had made 2,950 dunks, leading second placed and retired Shaquille O’neal (2,626) by 324. Dwight Howard (3,252) leads Shaq (3,200) by just 52 dunks when Playoffs and Regular season are combined."
+    },
+    {
+      "id": 5,
+      "question": "Which NBA player is the all time leader in blocks?",
+      "answer": "Hakeem Olajuwon",
+      "fact": "Kareem Abdul-Jabbar holds the record for the most NBA MVP awards, having won the award 6 times in his career. He won his first MVP award in the 1970-71 season and his last one in the 1979-80 season. No other player in NBA history has won as many MVP awards as Abdul-Jabbar."
+    },
+    {
+      "id": 6,
+      "question": "Which NBA player is the current leader in 3 pointers made?",
+      "answer": "Stephen Curry",
+      "fact": "Kareem Abdul-Jabbar holds the record for the most NBA MVP awards, having won the award 6 times in his career. He won his first MVP award in the 1970-71 season and his last one in the 1979-80 season. No other player in NBA history has won as many MVP awards as Abdul-Jabbar."
+    },
+    {
+      "id": 7,
+      "question": "Who is the all time leader in free throws made for their career?",
+      "answer": "Karl Malone",
+      "fact": "Kareem Abdul-Jabbar holds the record for the most NBA MVP awards, having won the award 6 times in his career. He won his first MVP award in the 1970-71 season and his last one in the 1979-80 season. No other player in NBA history has won as many MVP awards as Abdul-Jabbar."
+    },
+    {
+      "id": 8,
+      "question": "Which NBA player has played in the most NBA games?",
+      "answer": "Robert Parish",
+      "fact": "Kareem Abdul-Jabbar holds the record for the most NBA MVP awards, having won the award 6 times in his career. He won his first MVP award in the 1970-71 season and his last one in the 1979-80 season. No other player in NBA history has won as many MVP awards as Abdul-Jabbar."
+    },
+    {
+      "id": 9,
+      "question": "Which NBA player had the most 40 point games for their career?",
+      "answer": "Michael Jordan",
+      "fact": "Jordan is the greatest scorer, mid-range shooter, and overall player in NBA history. With his 173 40-point games, Jordan also added 31 50-point games and four 60-point games. His best single-game performance would come in a 1990 contest against the Cleveland Cavaliers. On this night, Jordan scored 69 points in a 117-113 overtime win. He shot 62.2% from the field, going 23-37 overall and 21-23 from the foul line."
+    }
+  ],
+  "players": [
+    {
+      "id": "5emw42o5ycn4RK9DRT2622",
+      "name": "Michael Jordan",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "o0ty31pcrphGTSKPBGO66O",
+      "name": "LeBron James",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "g112sne1qhqCHRZQ5JO3Z9",
+      "name": "Kareem Abdul-Jabbar",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "7ydblxdj3xP6KCBEUCRII",
+      "name": "Magic Johnson",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "wsouxc3selM40ZXJP9ZCP",
+      "name": "Bill Russell",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "jj0y166pzcJFAVWVSSBPP",
+      "name": "Wilt Chamberlain",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "073gz2p7ph57S9908EVSS3",
+      "name": "Larry Bird",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "vfzm1k5a43oCBL15DABPVG",
+      "name": "Kobe Bryant",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "f98nf2jcrqfPK3487DWTZE",
+      "name": "Shaquille O'Neal",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "sr3y9l4nkjXT1EACWRRG",
+      "name": "Tim Duncan",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "snv13fqzzu9JRZEIEW8IQ",
+      "name": "Hakeem Olajuwon ",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "98h8r1vqvkcKQI3P4EXIX",
+      "name": "Kevin Durant",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "oajsgaosfeMTBWA9JLE3C",
+      "name": "Stephen Curry",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "5cbud6rwkqbGH78OSMEHT",
+      "name": "Oscar Robertson",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "co3yptxrcyfCBENFNIB1N",
+      "name": "Karl Malone",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "z8kzpt8xjisJVDQPVUJ8A",
+      "name": "Moses Malone",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "xn31zvkoxsC1HTW97K397",
+      "name": "Kevin Garnett",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "y59w4ejw36P0LY9ITBPG",
+      "name": "Jerry West",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "hfx9pccg3o82AZXSX87FD",
+      "name": "Dirk Nowitzki ",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "ttucdooihrC0LOOVO8UK7",
+      "name": "Julius Erving",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "ribv8tw5flaBCT5BNA5EL9",
+      "name": "Elgin Baylor",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "eewjvzkuzzdT3LNPB4QV9",
+      "name": "Giannis Antetokounmpo ",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "9fekwh0fi52B95TGV8NNP",
+      "name": "Dwyane Wade",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "9g2eapvmoreJFRW1TCX9C",
+      "name": "David Robinson",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "4ip77e7lxo8U1KT5P3BDL",
+      "name": "Charles Barkley",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "x3j0okrk94H4PPLPWIV2B",
+      "name": "Isiah Thomas",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "jgbsiahas4aDLK5PVG0XIQ",
+      "name": "Scottie Pippen",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "e5pgyqtyyvdTO9JHBV3GE",
+      "name": "Chris Paul",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "t5cuywricvR3BATEB0OW9",
+      "name": "John Havlicek",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "ulhcfnhizvgHRO73VND245",
+      "name": "Allen Iverson",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "etch63bj0m4JMKX5H1797",
+      "name": "Bob Pettit",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "14cg5j4qvm3rSFGK2PMMYO",
+      "name": "John Stockton",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "fwl96dm4vwXFAWWYOEH0B",
+      "name": "Kawhi Leonard",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "7enriknlxgfJMWZL1B59Y",
+      "name": "Steve Nash ",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "uvf02g0db69H01Y36YX1YG",
+      "name": "Patrick Ewing",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "sbcjoyzr5l9Q8IXX3IE5",
+      "name": "Rick Barry",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "4nfgo6vb4pxKDT9TRH8FOA",
+      "name": "Bob Cousy",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "sh1q8kxd9xYJ41FG6KPTB",
+      "name": "Jason Kidd",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "329b0173jyy2P7FVOHJLPG",
+      "name": "James Harden",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "22zhtcyf592THI0L24MCAG",
+      "name": "Elvin Hayes",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "u05f3eqxqyeN0EC82EAGD",
+      "name": "Nikola Jokic ",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "93axgyz7638V3ZFAUPZ8M",
+      "name": "Gary Payton",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "9mtf75s4a5lL4H8SS5OYLE",
+      "name": "Dominique Wilkins",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "5r3bpi2umoqP8D3E3PMWSE",
+      "name": "George Gervin",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "ecsi09aeznaP4NGFP0OP4C",
+      "name": "Clyde Drexler",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "gbp6s6km0lkIOMEUD3B14L",
+      "name": "George Mikan",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "yo284ri9lvO8PT8YIFLM",
+      "name": "Anthony Davis",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "prujujhnbs9VE7G0BEGQB8",
+      "name": "Russell Westbrook",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "xgaj94c4gfO8EHXU9HATE",
+      "name": "James Worthy",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "gycelp68hav15QKKYPKJIR",
+      "name": "Carmelo Anthony",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "86g39cneprTB5L4KWPEM",
+      "name": "Paul Pierce",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "x46bmys5gpgFCKZLDD985T",
+      "name": "Bob McAdoo",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "g4eddl4g8yh16L4O3B3I0Z",
+      "name": "Damian Lillard",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "jyxra6okj6lQ43Y192C6NA",
+      "name": "Reggie Miller",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "42q63wxzqs54LOSWAE5EV9",
+      "name": "Wes Unseld",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "c0vcf6x48e846MQ9IDEQIB",
+      "name": "Kevin McHale",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "4utkmhwqommY9BDXLTA9NF",
+      "name": "Ray Allen",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "b28tun57n4fX7DFRVQBYQF",
+      "name": "Pau Gasol ",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "6a1fx4jot8q9JBNY63P6FS",
+      "name": "Walt Frazier",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "ttebynz8tw9KDXYS79TSL",
+      "name": "Robert Parish",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "lislcg6eo63B0HIUPGA8G",
+      "name": "Willis Reed",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "8bvq34lp2uiSRISMKUD7",
+      "name": "Dwight Howard",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "xptcvyfwknC1XK6MIRF27",
+      "name": "Dolph Schayes",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "6kq3cd7vcqq0A8OGQ3EYHUU",
+      "name": "Chris Bosh",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "0qytsjnqnusbTZLM0FQE1SH",
+      "name": "Dennis Rodman",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "7gul5wpd9vUYC7B36JVWO",
+      "name": "Nate Archibald",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "utxh1zie7aeBYITRSB3Q0C",
+      "name": "Pete Maravich",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "y2z6szaj5xnXJC4GEGNOX",
+      "name": "Dave Cowens",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "zi1xcbp566lSG5QT8H7YG",
+      "name": "Tony Parker ",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "wmduzul0443IM9X8RFISH",
+      "name": "Vince Carter",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "28mcfmcuilxE8ZYJZV74TQ",
+      "name": "Alex English",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "lsbf8vo012J5DIZ1P2YF",
+      "name": "Paul Arizin",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "rcrem6mv0qf5P6TEOJ2RY",
+      "name": "Earl Monroe",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "9cgnjqxttkb76NYD9ZI8RP",
+      "name": "Bernard King",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "tspaiypr9mIO0H6G81KV9",
+      "name": "Tracy McGrady",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "3tvi71n1wzdQAR4IWDJ6TQ",
+      "name": "Kyrie Irving",
+      "current_team_id": "",
+      "previous_team_id": []
+    },
+    {
+      "id": "0w1a5nz46gu900XMW1VQMB",
+      "name": "Hal Greer",
+      "current_team_id": "",
+      "previous_team_id": []
+    }
+  ],
+  "teams": {
+    "eastern": {
+      "atlantic": [
+        {
+          "id": "pkoud2obggYBEBUPFC76I",
+          "name": "Boston Celtics",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "fl705fd579tRAY7H4JUX6Q",
+          "name": "Brooklyn Nets",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "uhpvno8f5xa0MQ5UE0BMYRK",
+          "name": "New York Knicks",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "rknstj32hjjMHEWF1MYFG8",
+          "name": "Philadelphia 76ers",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "e0zizwv2igmIFPW9YQXG1H",
+          "name": "Toronto Raptors",
+          "current_players": [],
+          "old_players": []
+        }
+      ],
+      "central": [
+        {
+          "id": "7agg7ej82cLU1F7KJ9CO",
+          "name": "Chicago Bulls",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "a1gfc6jb8xqTII1WDI9QAC",
+          "name": "Cleveland Cavaliers",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "rzj1sps13kmEABDOI4UXGV",
+          "name": "Detroit Pistons",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "4oxfmpmppaiABZB58QRHDE",
+          "name": "Indiana Pacers",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "2rgjh92szr114N8OE2Q9ES",
+          "name": "Milwaukee Bucks",
+          "current_players": [],
+          "old_players": []
+        }
+      ],
+      "southeast": [
+        {
+          "id": "97wk0vopvu9U56P675GJ1",
+          "name": "Atlanta Hawks",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "0aiea4j12ewpT0WS7219H99",
+          "name": "Charlotte Hornets",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "4pli3a1k7y6SS1M8S10G",
+          "name": "Miami Heat",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "hhxpwr3s40fT6WA0WBNWR",
+          "name": "Orlando Magic",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "59rv45w3trJ3VCD5D39TQ",
+          "name": "Washington Wizards",
+          "current_players": [],
+          "old_players": []
+        }
+      ]
+    },
+    "western": {
+      "northwest": [
+        {
+          "id": "lnxuwle6aoDVAF4I1879",
+          "name": "Denver Nuggets",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "zcr1tihkbhd6ZT7T8104KS",
+          "name": "Minnesota Timberwolves",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "efd6i8tbza3UFH08E9ZZK",
+          "name": "Oklahoma City Thunder",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "dc4nugvngtjWHAUQ8N6BJA",
+          "name": "Portland Trail Blazers",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "0yok1mdz84rYAE6RISVAMF",
+          "name": "Utah Jazz",
+          "current_players": [],
+          "old_players": []
+        }
+      ],
+      "pacific": [
+        {
+          "id": "nfosibpup7eVMJVLG9C7ED",
+          "name": "Golden State Warriors",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "pbf4u6ipsxiH91C824JSQN",
+          "name": "LA Clippers",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "8mht1s16c3ARHOTDN79E",
+          "name": "Los Angeles Lakers",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "xdbiix9ae40APEKRKH9KJV",
+          "name": "Phoenix Suns",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "9a00ydfr81eS5KL2QF92E",
+          "name": "Sacramento Kings",
+          "current_players": [],
+          "old_players": []
+        }
+      ],
+      "southwest": [
+        {
+          "id": "5e88g33ar8jJJSWNBUCM3N",
+          "name": "Dallas Mavericks",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "3b4svx296v175JYT77FY2O",
+          "name": "Houston Rockets",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "8kxoectixpo6VDE8N3ZD6A",
+          "name": "Memphis Grizzlies",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "zbtgugmz4aoS0UTHEK8GG",
+          "name": "New Orleans Pelicans",
+          "current_players": [],
+          "old_players": []
+        },
+        {
+          "id": "r91c7hr1lin25BP1A5CVDG",
+          "name": "San Antonio Spurs",
+          "current_players": [],
+          "old_players": []
+        }
+      ]
+    }
+  }
+}

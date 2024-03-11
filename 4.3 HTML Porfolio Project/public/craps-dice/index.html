@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Craps</title>
+  </head>
+  <body>
+    <h1 id="title">Let's Play Craps</h1>
+    <section class="buttons-stats">
+      <div class="buttons">
+        <button class="new-game-btn">New Game</button>
+        <button class="roll-dice-btn">Roll Dice</button>
+      </div>
+      <div class="stats">
+        <p class="money">$ <span id="money">500</span></p>
+        <form>
+          <input type="number" name="bet-amount" id="bet-amount" />
+          <button type="submit" id="bet-btn">Bet</button>
+        </form>
+      </div>
+    </section>
+    <div id="board">
+      <div class="dice-container">
+        <div class="dice-display hidden">
+          <div class="dice-1-container"><img id="die1" src="" alt="" /></div>
+          <div class="dice-2-container"><img id="die2" src="" alt="" /></div>
+        </div>
+        <div class="point-info">
+          <h3 id="current-roll">Point: <span class="curr-roll"></span></h3>
+          <h3 id="roll-point">Current Roll: <span class="point"></span></h3>
+        </div>
+      </div>
+      <div class="outcome-container">
+        <h2 id="outcome-point"></h2>
+        <h3 id="outcome-msg"></h3>
+      </div>
+      <!-- <img id="die2" src="" alt="" /> -->
+      <!-- <img src="./images/one.png" alt="" /> -->
+    </div>
+    <script src="./craps.js"></script>
+  </body>
+</html>

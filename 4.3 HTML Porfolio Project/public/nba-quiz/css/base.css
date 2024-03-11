@@ -1,0 +1,65 @@
+@import "./reset.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@400;700&display=swap");
+
+:root {
+  --font-rg: "Edu TAS Beginner", cursive;
+  --font-size-sm: 75%;
+  --font-size: 125%;
+  --font-size-md: 175%;
+  --font-size-lg: 250%;
+  --font-size-xl: 300%;
+
+  --night: #0b090aff;
+  --eerie-black: #161a1dff;
+  --blood-red: #660708ff;
+  --cornell-red: #a4161aff;
+  --cornell-red-2: #ba181bff;
+  --imperial-red: #e5383bff;
+  --silver: #b1a7a6ff;
+  --timberwolf: #d3d3d3ff;
+  --white-smoke: #f5f3f4ff;
+  --white: #ffffffff;
+}
+
+body {
+  background-color: var(--cornell-red);
+  color: var(--timberwolf);
+  font-family: var(--font-rg);
+  font-size: var(--font-size);
+  padding: 1rem;
+}
+
+.game-console {
+  border: 3px solid var(--night);
+  max-width: 650px;
+  padding: 1.5rem;
+  border-radius: 3px;
+}
+
+.display-screen {
+  background-color: var(--timberwolf);
+  color: var(--eerie-black);
+  font-size: var(--font-size-md);
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-block-end: 1.25rem;
+  border: 2px solid var(--eerie-black);
+  border-radius: 6px;
+  text-align: center;
+  padding: 1rem;
+}
+
+.optionButtons {
+  display: flex;
+  gap: 7px;
+  flex-direction: column;
+}
+
+.option__btn {
+  padding: 0.375rem 0;
+  border: 0;
+  border-radius: 8px;
+}

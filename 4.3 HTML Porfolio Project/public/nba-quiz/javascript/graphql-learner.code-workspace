@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "../../../Apollo/graphql-learner"
+	},
+	{
+		"path": "../../../Frontend Masters/JavaScript From First Steps to Professional"
+	},
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../NBA Quiz-ts"
+	}
+],
+  "settings": {}
+}
